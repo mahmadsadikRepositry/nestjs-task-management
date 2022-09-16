@@ -1,0 +1,11 @@
+db:
+  type: 'postgres'
+  host: 'localhost'
+  port: 5432
+  username: 'sadik_postgres'
+  password: 'Simform@123'
+  database: 'taskmanagement'
+  synchronize: true,
+
+jwt:
+  secret: 'topSecret51'

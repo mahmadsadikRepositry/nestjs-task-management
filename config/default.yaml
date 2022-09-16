@@ -1,0 +1,8 @@
+server:
+  port: 3000
+db:
+  types: 'postgres'
+  port: 5432
+  database: 'taskmanagement'
+jwt:
+  expires: 3600
